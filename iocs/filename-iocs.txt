@@ -2794,7 +2794,7 @@ ystem32\\drivers\\kifes\.sys;70
 
 # Script Anomaly - Typical False Positive Directories
 \\Adobe\\Acrobat Reader;-10
-\\WindowsPowerShell\\;-10
+#\\WindowsPowerShell\\;-10
 
 
 # Sofacy Activity Feb 18 https://goo.gl/UUfYBc
