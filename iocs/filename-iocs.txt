@@ -2795,7 +2795,7 @@ ystem32\\drivers\\kifes\.sys;70
 \\AppData\\Local\\Microsoft\\Windows\\Explorer\\thumbcache_1CD60\.db;80
 
 # Script Anomaly - Typical False Positive Directories
-\\Adobe\\Acrobat Reader;-10
+#\\Adobe\\Acrobat Reader;-10
 #\\WindowsPowerShell\\;-10
 
 
